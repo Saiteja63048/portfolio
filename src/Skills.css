@@ -1,0 +1,88 @@
+.Skill{
+    display: flex;
+    margin-top: 50px;
+    /* background-color: rgb(235, 133, 133); */
+}
+
+.Section1{
+    width: 48%;
+    margin-top: -100px;
+}
+
+.Section2{
+    width: 48%;
+
+}
+
+img{
+    width: 600px;
+    height: 600px;
+}
+
+.s21{
+    height: 50px;
+    width: 600px;
+    color: blue;
+    background-color: rgb(141, 141, 240);
+    background-size: 60px 220px;
+    border-radius: 10px;
+    margin: 20px 0px 0px 0px;
+    display: flex;
+    justify-content: flex-end;
+
+    
+}
+.s21img{
+    width: 40px;
+    height: 50px;
+}
+
+.s22{
+    height: 50px;
+    width: 500px;
+    color: blue;
+    background-color: rgb(141, 141, 240);
+    background-size: 60px 220px;
+    border-radius: 10px;
+    margin: 20px 0px 0px 0px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.s22img{
+    width: 40px;
+    height: 50px;
+    align-items: end;
+}.s23{
+    height: 50px;
+    width: 400px;
+    color: blue;
+    background-color: rgb(141, 141, 240);
+    background-size: 60px 220px;
+    border-radius: 10px;
+    margin: 20px 0px 0px 0px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.s23img{
+    width: 40px;
+    height: 50px;
+    align-items: end;
+}.s24{
+    height: 50px;
+    width: 440px;
+    color: blue;
+    background-color: rgb(141, 141, 240);
+    background-size: 60px 220px;
+    border-radius: 10px;
+    margin: 20px 0px 0px 0px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.s24img{
+    width: 40px;
+    height: 50px;
+    align-items: end;
+}

@@ -1,0 +1,19 @@
+.Ul{
+    display: flex;
+    list-style: none;
+    color: rgb(144, 139, 139);
+    margin-left: 40%;
+    margin: 20px 20px 20px 700px;
+    
+}
+
+li{
+    margin: 0px 40px 20px 20px;
+    font-style: normal;
+
+}
+
+li Link{
+    text-decoration: none;
+
+}

@@ -1,0 +1,64 @@
+
+.profile{
+    display: flex;
+    /* background-color: gray; */
+
+}
+
+.profilel{
+    text-align: left;
+    width: 49%;
+    color: rgb(144, 139, 139);
+    margin-top: 100px;
+
+
+}
+
+.profilel h1{
+    color: black;
+}
+
+.profiler{
+    width: 49%;
+
+}
+
+.Homeimg{
+    width: 700px;
+    height: 530px;
+}
+
+.Homeimg:hover{
+    width: 700px;
+    height: 530px;
+    margin-left: 50px;
+
+}
+
+.footer2{
+    display: flex;
+}
+
+.footer2l{
+    width: 49%;
+
+}
+
+.footer2l h3{
+    text-align: left;
+    color: rgb(144, 139, 139);
+
+}
+.footer2r{
+    width: 49%;
+
+}
+.footer2r img{
+    justify-content: center;
+    margin-right: 50px;
+}
+
+
+
+
+
