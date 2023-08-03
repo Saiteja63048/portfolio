@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.34fea76c.css",
-    "main.js": "/static/js/main.63ebab25.js",
-    "static/js/787.9b1da57c.chunk.js": "/static/js/787.9b1da57c.chunk.js",
-    "static/media/icons8-react-native.svg": "/static/media/icons8-react-native.e6ea5251c34bde031d1a23503786a48e.svg",
-    "static/media/icons8-css3.svg": "/static/media/icons8-css3.7e6b7f783f5b2ab56c7fb81c6e20f491.svg",
-    "static/media/javascript.svg": "/static/media/javascript.30ffc1ab15a9fddc7e224d81fafd1f9d.svg",
-    "index.html": "/index.html",
-    "static/media/html.svg": "/static/media/html.b0839567081d02d271a80f355da7cd0a.svg",
-    "main.34fea76c.css.map": "/static/css/main.34fea76c.css.map",
-    "main.63ebab25.js.map": "/static/js/main.63ebab25.js.map",
-    "787.9b1da57c.chunk.js.map": "/static/js/787.9b1da57c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.34fea76c.css",
+    "main.js": "/portfolio/static/js/main.a1bfd653.js",
+    "static/js/787.9b1da57c.chunk.js": "/portfolio/static/js/787.9b1da57c.chunk.js",
+    "static/media/icons8-react-native.svg": "/portfolio/static/media/icons8-react-native.e6ea5251c34bde031d1a23503786a48e.svg",
+    "static/media/icons8-css3.svg": "/portfolio/static/media/icons8-css3.7e6b7f783f5b2ab56c7fb81c6e20f491.svg",
+    "static/media/javascript.svg": "/portfolio/static/media/javascript.30ffc1ab15a9fddc7e224d81fafd1f9d.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/html.svg": "/portfolio/static/media/html.b0839567081d02d271a80f355da7cd0a.svg",
+    "main.34fea76c.css.map": "/portfolio/static/css/main.34fea76c.css.map",
+    "main.a1bfd653.js.map": "/portfolio/static/js/main.a1bfd653.js.map",
+    "787.9b1da57c.chunk.js.map": "/portfolio/static/js/787.9b1da57c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34fea76c.css",
-    "static/js/main.63ebab25.js"
+    "static/js/main.a1bfd653.js"
   ]
 }
